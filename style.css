@@ -28,7 +28,7 @@ h1,h2{
 
 
 }
-.coffee{
+.coffee,.dessert{
     text-align: left;
     width: 49%;
 }
