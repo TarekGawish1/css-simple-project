@@ -17,3 +17,23 @@ h1,h2,p{
 
 }
 
+h1,h2{
+    font-family: Impact,serif;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+
+}
+.coffee{
+    text-align: left;
+    width: 49%;
+}
+.price{
+    text-align:right ;
+    width: 49%;
+
+}
